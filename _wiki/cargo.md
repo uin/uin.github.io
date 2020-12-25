@@ -1,9 +1,9 @@
 ---
 layout  : wiki
-title   : 
-summary : 
+title   : Cargo
+summary : 끄적그적
 date    : 2020-12-25 14:50:03 +0900
-updated : 2020-12-25 14:50:54 +0900
+updated : 2020-12-25 19:33:37 +0900
 tags    : 
 toc     : true
 public  : true
@@ -13,4 +13,6 @@ latex   : false
 * TOC
 {:toc}
 
-## Cargo 
+## Cargo
+
+빔위키 테스트 중입니다. 
