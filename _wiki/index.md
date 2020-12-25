@@ -11,7 +11,7 @@ regenerate: true
 
 * [[VimWiki]]
 * [[cargo]]
-* [how to](how-to)
+* [[test]] 
 
 
 ---
