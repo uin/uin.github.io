@@ -12,7 +12,7 @@ regenerate: true
 * [VimWiki](VimWiki)
 * [[mathjax-latex]]
 * [[cargo]]
-* [且 老 格废](且-老-格废)
+* [且 老 格废](To-do.md)
 
 ---
 
