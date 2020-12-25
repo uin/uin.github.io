@@ -9,10 +9,9 @@ regenerate: true
 
 ## wiki items
 
-* [VimWiki](VimWiki)
-* [[mathjax-latex]]
+* [[VimWiki]]
 * [[cargo]]
-* [할 일 목록](To-do.md)
+
 
 ---
 
