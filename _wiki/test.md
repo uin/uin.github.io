@@ -15,4 +15,4 @@ latex   : false
 
 ## Test
 
-테스트 입니다. 
+test
